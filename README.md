@@ -267,7 +267,7 @@ A simple &lt;html> file for a Bank Statement
 <div class="statement-container">
   <div class="bank-header">
     <div class="bank-name">
-      🌿 NEXUS BANK <span>Premium</span>
+      🌿 STANLEY BANK <span>Premium</span>
     </div>
     <div class="statement-meta">
       <div class="account-info">
@@ -320,7 +320,7 @@ A simple &lt;html> file for a Bank Statement
           </tr>
           <tr>
             <td>Mar 03, 2025</td>
-            <td><span class="transaction-desc">💼 Salary deposit - Nexus Corp</span> <span class="badge-status">Direct deposit</span></td>
+            <td><span class="transaction-desc">💼 Salary deposit - Stanley Corp</span> <span class="badge-status">Direct deposit</span></td>
             <td>—</td>
             <td class="credit-text">+$4,250.00</td>
             <td class="balance-cell">$9,450.00</td>
